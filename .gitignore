@@ -1,0 +1,5 @@
+env/
+menagiobak/.env
+menagiobak/db.sqlite3
+
+*__pycache__

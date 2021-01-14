@@ -1,0 +1,8 @@
+export SECRET_KEY=password
+
+export ENGINE_DB=django.db.backends.postgresql_psycopg2
+export NAME_DB=db_name
+export USER_DB=db_user
+export PASSWORD_DB=db_password
+export HOST_DB=127.0.0.1
+export PORT_DB=
