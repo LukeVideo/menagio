@@ -3,3 +3,6 @@ menagiobak/.env
 menagiobak/db.sqlite3
 
 *__pycache__
+*.log
+*.pot
+*.pyc
